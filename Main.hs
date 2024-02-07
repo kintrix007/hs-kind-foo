@@ -1,4 +1,6 @@
 {-# LANGUAGE TypeFamilies #-}
+-- {-# LANGUAGE ConstraintKinds #-}
+-- {-# LANGUAGE FlexibleInstances #-}
 -- {-# LANGUAGE UndecidableInstances #-}
 -- {-# LANGUAGE QuantifiedConstraints #-}
 {-# LANGUAGE UndecidableSuperClasses #-}
